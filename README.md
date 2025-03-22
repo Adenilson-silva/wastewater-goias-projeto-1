@@ -2,7 +2,7 @@
 
 Contexto:
 
-Atualmente, a questão do saneamento básico tornou-se uma das principais preocupações das prefeituras no estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
+Atualmente, a questão do saneamento básico tornou-se uma das principais preocupações das prefeituras do estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
 
 Diante disso, o governo estadual organizou um grande evento reunindo todos os prefeitos do estado e abrindo espaço para a participação popular. O objetivo era discutir os avanços, desafios e possíveis soluções para o saneamento básico em Goiás. Durante o evento, relatos negativos foram apresentados, dentre eles: cidades enfrentando despejo irregular de esgoto, rios contaminados, doenças de veiculação hídrica e uma clara desigualdade na distribuição dos serviços de saneamento entre os municípios.
 
