@@ -10,3 +10,5 @@ A população exigia ações concretas, enquanto os prefeitos reconheciam as dif
 
 Ao final do evento, o governo estadual decidiu que era necessário um estudo abrangente para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário.
 
+Para atender à solicitação do governo, a Secretaria de Meio Ambiente contratou uma empresa de consultoria especializada em ciência de dados. Essa empresa será responsável por estruturar e desenvolver um projeto que utilize técnicas de análise e modelagem de dados para produzir o estudo solicitado. O objetivo é transformar os dados coletados em informações concretas que auxiliem na formulação de políticas públicas mais eficientes.
+
