@@ -51,7 +51,6 @@ Durante as reuniões de planejamento entre os analistas ambientais e a empresa d
 
 ## Tecnologias utilizadas
 - Python
-- Tableau Public
 - Trello
 
 
