@@ -28,9 +28,9 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 | Etapa        | Descrição | Responsável | Prazo | Ações/Observações |
 |--------------|-----------|-------------|-------|-------------------|
 | **_Plan_**     | Planejamento e definição de metas e objetivos. Coleta dos dados. | Analistas Ambientais e empresa de consultoria. | 5 dias | - |
-| **_Analyse_**       | Análise Exploratória dos dados | Empresa de consultoria | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
-| **_Construct_**    | Construção do Modelo de _Machine Learning_. | Empresa de consultoria | 30 dias | - |
-| **_Execute_**      | Entrega dos resultados. | Analistas Ambientais e empresa de consultoria | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
+| **_Analyse_**       | Processamento e tratamento dos dados. Análise exploratória dos dados | Empresa de consultoria | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
+| **_Construct_**    | Construção do modelo de _Machine Learning_. | Empresa de consultoria | 30 dias | - |
+| **_Execute_**      | Entrega dos resultados. | Analistas ambientais e empresa de consultoria | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
 
 
 ## Tecnologias utilizadas
