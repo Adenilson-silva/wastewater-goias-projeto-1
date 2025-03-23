@@ -11,7 +11,7 @@ Diante disso, em 2022, o governo estadual organizou um grande evento reunindo to
 
 A população exigia ações concretas, enquanto os prefeitos reconheciam as dificuldades na obtenção de diagnósticos precisos para embasar políticas públicas eficazes. Ficou evidente que a falta de informações organizadas e atualizadas sobre o esgotamento sanitário impedia a criação de estratégias eficientes para solucionar o problema.
 
-Ao final do evento, o governo estadual decidiu que seria necessário produzir um estudo geral para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário. O prazo estabelecido para o desenvolvimento do estudo seria de 60 (sessenta) dias.
+Ao final do evento, o governo estadual decidiu que seria necessário produzir um estudo geral para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário. O prazo estabelecido para o desenvolvimento do estudo seria de 120 (cento e vinte dias) dias.
 
 #### Definição das responsabilidades
 Ao tomar ciência da solicitação do governador, o secretário estadual de meio ambiente decidiu utilizar a  <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank">Matriz RACI</a> para organizar a gestão de elaboração do estudo, definindo assim os papéis e responsabilidades das partes envolvidas. A seguir, é apresentada a matriz de inicio do projeto:
@@ -32,7 +32,15 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 | **_Construct_**    | Construção do modelo de _Machine Learning_. | Empresa de consultoria. | 30 dias | - |
 | **_Execute_**      | Entrega dos resultados. | Analistas ambientais e empresa de consultoria. | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
 
+### Empresa de Consultoria ganhadora da licitação
+Após a conclusão do processo licitatório, a empresa vencedora foi *O que dizem os Dados?*.
+
+De acordo com a própria empresa:
+
+* *O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em insights estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
+
 #### Definição do problema e do objetivos
+A empresa escolhida para realização do trabalho foi a empresa
 Durante as reuniões de planejamento entre os analistas ambientais e a empresa de consultoria, ficou estabelecido que, para garantir uma compreensão clara e objetiva do projeto, seria utilizada a técnica [5W-S](https://www.esalq.usp.br/qualidade/ferramentas/5w1h.htm). Essa abordagem permitiria estruturar a descrição do problema de forma detalhada. A seguir, é apresentada a aplicação da técnica e os objetivos, respectivamente.
 | **Pergunta**           | **Descrição**                                                                                                                                                                                                                       |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
