@@ -3,4 +3,4 @@
 
 # Informações encaminhadas ao Governador, Prefeitos e População do estado de Goiás
 
-# Ressalvas acerca desse projeto
+# Ressalvas acerca deste projeto
