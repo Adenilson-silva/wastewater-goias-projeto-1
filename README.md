@@ -1,6 +1,8 @@
 # ANÁLISE TEMPORAL DA GESTÃO DE ESGOTOS EM GOIÁS (1992-2021) E PERSPECTIVAS FUTURAS (2022-2032)
 
-Contexto:
+![Minha Imagem](https://drive.google.com/uc?export=view&id=1m56zgTpMRpCBBznDKY6OWnRWZqZmfm77)
+
+# Descrição:
 
 Atualmente, a questão do saneamento básico tornou-se uma das principais preocupações das prefeituras do estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
 
@@ -11,4 +13,9 @@ A população exigia ações concretas, enquanto os prefeitos reconheciam as dif
 Ao final do evento, o governo estadual decidiu que era necessário produzir um estudo abrangente para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário.
 
 Para atender à solicitação do governo, a Secretaria de Meio Ambiente contratou uma empresa de consultoria especializada em ciência de dados. Essa empresa será responsável por estruturar e desenvolver um projeto que utilize técnicas de análise e modelagem de dados para produzir o estudo solicitado. O objetivo é transformar os dados coletados em informações concretas que auxiliem na formulação de políticas públicas mais eficientes.
+
+## Tecnologias utilizadas
+- Python
+- Tableau Public
+- Trello
 
