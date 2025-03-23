@@ -27,9 +27,9 @@ Ao tomar ciência da solicitação do governador, o secretário estadual de meio
 Após definir as responsabilidades dos envolvidos, o secretario, juntamente com os analistas responsáveis pela elaboração do estudo, definiram o fluxo de trabalho por meio do <a href="https://medium.com/@gelsonm/pace-framework-a-beginners-guide-to-structured-ml-projects-7089b6001615" target="_blank">Método PACE</a>. A seguir, é apresentada a matriz:
 | Etapa        | Descrição | Responsável | Prazo | Ações/Observações |
 |--------------|-----------|-------------|-------|-------------------|
-| **_Plan_**     | Planejamento e definição de metas e objetivos. Coleta dos dados | Analistas Ambientais e empresa de consultoria | 5 dias | - |
-| **_Analyse_**       | Análise Exploratória dos dados | Empresa de consultoria | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria |
-| **_Construct_**    | Construção do Modelo de _Machine Learning_. | Empresa de consultoria | 30 dias | [Preencher] |
+| **_Plan_**     | Planejamento e definição de metas e objetivos. Coleta dos dados. | Analistas Ambientais e empresa de consultoria. | 5 dias | - |
+| **_Analyse_**       | Análise Exploratória dos dados | Empresa de consultoria | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
+| **_Construct_**    | Construção do Modelo de _Machine Learning_. | Empresa de consultoria | 30 dias | - |
 | **_Execute_**      | Entrega dos resultados. | Analistas Ambientais e empresa de consultoria | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
 
 
