@@ -15,7 +15,7 @@ Ao final do evento, o governo estadual decidiu que seria necessário produzir um
 
 #### Definição das responsabilidades
 Ao tomar ciência da solicitação do governador, o secretário estadual de meio ambiente decidiu utilizar a  <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank">Matriz RACI</a> para organizar a gestão de elaboração do estudo, definindo assim os papéis e responsabilidades das partes envolvidas. A seguir, é apresentada a matriz de inicio do projeto:
-| Activity  | Diagnóstico geral da situação do esgotamento sanitário em Goiás |
+| Etapa  | Diagnóstico geral da situação do esgotamento sanitário em Goiás |
 |-----------|-----------------------------------------------------------------------------------|
 | **_Responsible_** | Será criado um Grupo de Trabalho (GT) composto por dois (2) analistas ambientais da Secretaria de Meio Ambiente do Estado, responsáveis pelo desenvolvimento do estudo. Este estudo utilizará como subsídio o projeto elaborado por uma empresa contratada por meio de licitação, especializada em consultoria de ciência de dados. A empresa será encarregada de estruturar e desenvolver um projeto que empregue técnicas de análise e modelagem de dados, com o intuito de embasar o estudo solicitado. O objetivo principal é transformar os dados coletados em informações concretas, que auxiliem na formulação de políticas públicas mais eficientes. |
 | **_Accountable_**  | Secretário de Meio Ambiente do Estado de Goiás. |
@@ -31,6 +31,22 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 | **_Analyse_**       | Processamento e tratamento dos dados. Análise exploratória dos dados | Empresa de consultoria. | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
 | **_Construct_**    | Construção do modelo de _Machine Learning_. | Empresa de consultoria. | 30 dias | - |
 | **_Execute_**      | Entrega dos resultados. | Analistas ambientais e empresa de consultoria. | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
+
+#### Definição do problema e do objetivos
+Durante as reuniões de planejamento entre os analistas ambientais e a empresa de consultoria, ficou estabelecido que, para garantir uma compreensão clara e objetiva do projeto, seria utilizada a técnica [5W-S](https://www.esalq.usp.br/qualidade/ferramentas/5w1h.htm). Essa abordagem permitiria estruturar a descrição do problema de forma detalhada. A seguir, é apresentada a aplicação da técnica e os objetivos, respectivamente.
+| **Pergunta**           | **Descrição**                                                                                                                                                                                                                       |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Quem? (_Who?_)**      | Os dados utilizados neste projeto serão coletados de 3 fontes distintas: <br> 1 – Sistema Nacional de Informações sobre o Saneamento (SNIS) <br> 2 – Instituto Brasileiro de Geografia e Estatística (IBGE)<br> 3 – Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos (IMB) |
+| **O quê? (_What?_)**    | Este projeto realizará a análise descritiva e preditiva dos dados relativos ao volume de esgoto produzido, volume de esgoto tratado e volume de esgoto tratado em todos os 246 municípios do estado de Goiás.                    |
+| **Por quê? (_Why?_)**   | Dada a importância do assunto “saneamento básico”, este projeto motiva-se pela necessidade de verificar a efetividade das políticas públicas de tratamento de esgotos que estão sendo desenvolvidas no estado de Goiás.            |
+| **Onde? (_Where?_)**    | Este projeto tratará especificamente do estado de Goiás e seus municípios.                                                                                                                                                         |
+| **Quando? (_When?_)**   | Os dados utilizados neste projeto contemplarão a seguinte faixa de tempo: <br> • Análise Descritiva: do ano 1992 ao ano 2021; <br> • Análise Preditiva: do ano 2022 ao ano 2032.                                                 |
+
+**Objetivos**
+- Coletar e tratar dados relativos aos volumes de esgotos produzidos, coletados e tra-tados nos munícipios do estado de Goiás;
+- Descrever os dados coletados, a fim de averiguar possíveis comportamentos e/ou tendências entre o período de 1992 a 2021;
+- Prever comportamentos e/ou tendências futuras (para o período compreendido en-tre 2022 e 2032); e
+- Constatar se, por meio de modelos preditivos, é possível inferir se a atual ação do poder público no estado de Goiás garantirá ou não a melhoria dos serviços de coleta e tratamento na região.
 
 
 ## Tecnologias utilizadas
