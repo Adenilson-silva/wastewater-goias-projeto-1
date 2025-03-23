@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1m56zgTpMRpCBBznDKY6OWnRWZqZmfm77" width="600">
 </div>
 
-# Contextualização (cenário fictício desenvolvido pelo autor)
+## Contextualização (cenário fictício desenvolvido pelo autor)
 
 Atualmente, a questão do saneamento básico tornou-se uma das principais preocupações das prefeituras do estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
 
