@@ -38,3 +38,6 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 - Tableau Public
 - Trello
 
+
+## Quem é o Autor?
+Leio meu resumo e me envie uma mensagem: https://www.linkedin.com/in/adenilson-silva/
