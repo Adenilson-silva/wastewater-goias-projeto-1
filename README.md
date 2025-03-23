@@ -11,7 +11,7 @@ Diante disso, em 2022, o governo estadual organizou um grande evento reunindo to
 
 A população exigia ações concretas, enquanto os prefeitos reconheciam as dificuldades na obtenção de diagnósticos precisos para embasar políticas públicas eficazes. Ficou evidente que a falta de informações organizadas e atualizadas sobre o esgotamento sanitário impedia a criação de estratégias eficientes para solucionar o problema.
 
-Ao final do evento, o governo estadual decidiu que era necessário produzir um estudo abrangente para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário.
+Ao final do evento, o governo estadual decidiu que era necessário produzir um estudo geral para oferecer um panorama realista da situação do esgotamento sanitário em Goiás. Coube à Secretaria de Meio Ambiente a responsabilidade por conduzir essa iniciativa, contando com a colaboração das prefeituras para fornecer informações detalhadas sempre que necessário.
 
 Ao tomar ciência da solicitação do governo, o Secretário  Secretaria de Meio Ambiente contratou, por meio de licitação, uma empresa de consultoria especializada em ciência de dados. Essa empresa seria responsável por estruturar e desenvolver um projeto que utilizease técnicas de análise e modelagem de dados para embasar o estudo solicitado. O objetivo é transformar os dados coletados em informações concretas que auxiliem na formulação de políticas públicas mais eficientes.
 
