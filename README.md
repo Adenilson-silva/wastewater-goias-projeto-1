@@ -71,4 +71,5 @@ Durante as reuniões de planejamento entre os analistas ambientais e a empresa d
 
 ## Quem é o Autor?
 Leia meu resumo e me envie uma mensagem: https://www.linkedin.com/in/adenilson-silva/
+
 Vamos conversar...
