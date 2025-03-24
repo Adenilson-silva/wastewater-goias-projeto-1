@@ -36,10 +36,13 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 Após a conclusão do processo licitatório, a empresa vencedora foi *O que dizem os Dados?*.
 
 De acordo com a própria empresa:
+
 <div align="center">
-  <img src="https://drive.google.com/file/d/1Hs-6FGRgBtCslkh9GsRE5cdtblEB_ENe/view?usp=drive_link">
+  <img src="https://drive.google.com/uc?export=view&id=1Hs-6FGRgBtCslkh9GsRE5cdtblEB_ENe"  width="300">
 </div>
-* *O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em insights estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
+
+##### Quem Somos
+*O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em insights estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
 
 #### Definição do problema e do objetivos
 A empresa escolhida para realização do trabalho foi a empresa
