@@ -44,7 +44,7 @@ De acordo com a própria empresa:
 </div>
 
 ###### Quem Somos
-*O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em insights estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
+*O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em *insights* estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
 
 #### Definição do problema e dos objetivos
 A empresa escolhida para realização do trabalho foi a empresa
