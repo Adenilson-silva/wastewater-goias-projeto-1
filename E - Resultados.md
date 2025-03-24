@@ -34,7 +34,3 @@ Com base na análise descritiva e preditiva apresentada neste projeto, sugere-se
 - Aumento dos recursos destinados à saneamento básico;
 - Criação de paíneis de visualização para fácil consulta e entedimento do cenário; e
 - Atualização anual do modelo de _Machine learning_.  
-
-# Informações encaminhadas ao Governador, Prefeitos e População do estado de Goiás
-
-# Ressalvas acerca deste projeto
