@@ -29,10 +29,10 @@ Ao tomar ciência da solicitação do governador, o secretário estadual de meio
 Após definir as responsabilidades dos envolvidos, o secretario, juntamente com os analistas responsáveis pela elaboração do estudo, definiram o fluxo de trabalho por meio do <a href="https://medium.com/@gelsonm/pace-framework-a-beginners-guide-to-structured-ml-projects-7089b6001615" target="_blank">Método PACE</a>. A seguir, é apresentada a matriz:
 | Etapa        | Descrição | Responsável | Prazo | Ações/Observações |
 |--------------|-----------|-------------|-------|-------------------|
-| **_Plan_**     | Planejamento e definição de metas e objetivos. Coleta dos dados. | Analistas Ambientais e empresa de consultoria. | 5 dias | - |
-| **_Analyse_**       | Processamento e tratamento dos dados. Análise exploratória dos dados | Empresa de consultoria. | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
-| **_Construct_**    | Construção do modelo de _Machine Learning_. | Empresa de consultoria. | 30 dias | - |
-| **_Execute_**      | Entrega dos resultados. | Analistas ambientais e empresa de consultoria. | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
+| **_Plan_**     | Planejamento e definição de metas e objetivos.  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/A%20-%20Coleta%20de%20dados.ipynb" target="_blank">Coleta dos dados</a>. | Analistas Ambientais e empresa de consultoria. | 5 dias | - |
+| **_Analyse_**       |  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/B%20-%20Processamento%20e%20Tratamento%20dos%20Dados.ipynb" target="_blank">Processamento e tratamento dos dados</a>.  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/C%20-%20An%C3%A1lise%20e%20Explora%C3%A7%C3%A3o%20do%20Dados.ipynb" target="_blank">Análise exploratória dos dados.</a> | Empresa de consultoria. | 15 dias | Durante esta etapa, poderá ser necessário a solicitação de esclarecimentos pela empresa de consultoria. |
+| **_Construct_**    |  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/D%20-%20Cria%C3%A7%C3%A3o%20de%20Modelos%20de%20Machine%20Learning.ipynb" target="_blank">Construção do modelo de _Machine Learning_</a>. | Empresa de consultoria. | 30 dias | - |
+| **_Execute_**      | <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/E%20-%20Conclus%C3%A3o.md" target="_blank">Entrega dos resultados</a>. | Analistas ambientais e empresa de consultoria. | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
 
 #### Empresa de Consultoria ganhadora da licitação
 Após a conclusão do processo licitatório, a empresa vencedora foi *O que dizem os Dados?*.
