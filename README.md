@@ -3,8 +3,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1m56zgTpMRpCBBznDKY6OWnRWZqZmfm77" width="600">
 </div>
 
-## Contextualização do Projeto (cenário fictício desenvolvido pelo autor)
+## Sobre este Projeto 
+Cenário fictício desenvolvido pelo autor.
 
+## Contextualização
 Atualmente, a questão do <a href="https://www.gov.br/ana/pt-br/assuntos/saneamento-basico/saneamento-basico-no-brasil/panorama-do-saneamento-no-brasil-1#:~:text=O%20saneamento%20b%C3%A1sico%20compreende%20os,manejo%20da%20%C3%A1gua%20das%20chuvas." target="_blank">Saneamento Básico</a> tornou-se uma das principais preocupações das prefeituras do estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
 
 Diante disso, em 2022, o governo estadual organizou um grande evento reunindo todos os prefeitos do estado e abrindo espaço para a participação popular. O objetivo era discutir os avanços, desafios e possíveis soluções para o saneamento básico em Goiás. Durante o evento, relatos negativos foram apresentados, dentre eles: municípios enfrentando despejo irregular de esgoto, rios contaminados, doenças de veiculação hídrica e uma clara desigualdade na distribuição dos serviços de saneamento entre os municípios.
@@ -32,7 +34,7 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 | **_Construct_**    | Construção do modelo de _Machine Learning_. | Empresa de consultoria. | 30 dias | - |
 | **_Execute_**      | Entrega dos resultados. | Analistas ambientais e empresa de consultoria. | 10 dias | Nesta etapa, os analistas ambientais deverão coletar o projeto entregue pela a empresa de consultoria e estruturar o estudo] |
 
-### Empresa de Consultoria ganhadora da licitação
+#### Empresa de Consultoria ganhadora da licitação
 Após a conclusão do processo licitatório, a empresa vencedora foi *O que dizem os Dados?*.
 
 De acordo com a própria empresa:
@@ -41,19 +43,19 @@ De acordo com a própria empresa:
   <img src="https://drive.google.com/uc?export=view&id=1Hs-6FGRgBtCslkh9GsRE5cdtblEB_ENe"  width="300">
 </div>
 
-##### Quem Somos
+###### Quem Somos
 *O que dizem os Dados?* é uma empresa de consultoria em ciência de dados que transforma informações em insights estratégicos. Oferecemos soluções como análise preditiva, modelagem estatística, inteligência artificial, visualização de dados e otimização de processos. Nosso foco é ajudar empresas a tomar decisões mais assertivas com base em dados, impulsionando eficiência e inovação.
 
-#### Definição do problema e do objetivos
+#### Definição do problema e dos objetivos
 A empresa escolhida para realização do trabalho foi a empresa
 Durante as reuniões de planejamento entre os analistas ambientais e a empresa de consultoria, ficou estabelecido que, para garantir uma compreensão clara e objetiva do projeto, seria utilizada a técnica [5W-S](https://www.esalq.usp.br/qualidade/ferramentas/5w1h.htm). Essa abordagem permitiria estruturar a descrição do problema de forma detalhada. A seguir, é apresentada a aplicação da técnica e os objetivos, respectivamente.
 | **Pergunta**           | **Descrição**                                                                                                                                                                                                                       |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Quem? (_Who?_)**      | Os dados utilizados neste projeto serão coletados de 3 fontes distintas: <br> 1 – Sistema Nacional de Informações sobre o Saneamento (SNIS) <br> 2 – Instituto Brasileiro de Geografia e Estatística (IBGE)<br> 3 – Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos (IMB) |
-| **O quê? (_What?_)**    | Este projeto realizará a análise descritiva e preditiva dos dados relativos ao volume de esgoto produzido, volume de esgoto tratado e volume de esgoto tratado em todos os 246 municípios do estado de Goiás.                    |
-| **Por quê? (_Why?_)**   | Dada a importância do assunto “saneamento básico”, este projeto motiva-se pela necessidade de verificar a efetividade das políticas públicas de tratamento de esgotos que estão sendo desenvolvidas no estado de Goiás.            |
-| **Onde? (_Where?_)**    | Este projeto tratará especificamente do estado de Goiás e seus municípios.                                                                                                                                                         |
-| **Quando? (_When?_)**   | Os dados utilizados neste projeto contemplarão a seguinte faixa de tempo: <br> • Análise Descritiva: do ano 1992 ao ano 2021; <br> • Análise Preditiva: do ano 2022 ao ano 2032.                                                 |
+| **Quem? (_Who?_):** De quem são os dados analisados?      | Os dados utilizados neste projeto serão coletados de 3 fontes distintas: <br> 1 – Sistema Nacional de Informações sobre o Saneamento (SNIS) <br> 2 – Instituto Brasileiro de Geografia e Estatística (IBGE)<br> 3 – Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos (IMB) |
+| **O quê? (_What?_):** Quais os objetivos com essa análise?     | Este projeto realizará a análise descritiva e preditiva dos dados relativos ao volume de esgoto produzido, volume de esgoto tratado e volume de esgoto tratado em todos os 246 municípios do estado de Goiás.                    |
+| **Por quê? (_Why?_):** Por que esse problema é importante?   | Dada a importância do assunto “saneamento básico”, este projeto motiva-se pela necessidade de verificar a efetividade das políticas públicas de tratamento de esgotos que estão sendo desenvolvidas no estado de Goiás.            |
+| **Onde? (_Where?_):** Quais os aspectos geográficos e/ou logísticos?   | Este projeto tratará especificamente do estado de Goiás e seus municípios.                                                                                                                                                         |
+| **Quando? (_When?_):** Qual o período está sendo analisado?   | Os dados utilizados neste projeto contemplarão a seguinte faixa de tempo: <br> • Análise Descritiva: do ano 1992 ao ano 2021; <br> • Análise Preditiva: do ano 2022 ao ano 2032.                                                 |
 
 **Objetivos**
 - Coletar e tratar dados relativos aos volumes de esgotos produzidos, coletados e tra-tados nos munícipios do estado de Goiás;
