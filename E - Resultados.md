@@ -30,8 +30,10 @@ Com base na predição realizada para os anos de 2022 a 2032, foi possível conc
 
 ### Análise Prescritiva
 
-Com base na análise descritiva e preditiva apresentada nesse projeto, sugere-se:
-- kkl 
+Com base na análise descritiva e preditiva apresentada neste projeto, sugere-se:
+- Aumento dos recursos destinados à saneamento básico;
+- Criação de paíneis de visualização para fácil consulta e entedimento do cenário; e
+- Atualização anual do modelo de _Machine learning_.  
 
 # Informações encaminhadas ao Governador, Prefeitos e População do estado de Goiás
 
