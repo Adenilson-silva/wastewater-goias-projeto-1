@@ -1,6 +1,7 @@
-# ANÁLISE TEMPORAL DA GESTÃO DE ESGOTOS EM GOIÁS (1992-2021) E PERSPECTIVAS FUTURAS (2022-2032)
+# Ciência de Dados
+## ANÁLISE TEMPORAL DA GESTÃO DE ESGOTOS EM GOIÁS (1992-2021) E PERSPECTIVAS FUTURAS (2022-2032)
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1m56zgTpMRpCBBznDKY6OWnRWZqZmfm77" width="600">
+  <img src="https://drive.google.com/uc?export=view&id=1D5C_5RqZmb1Pc-YGTtIERKbCMFrPZ7fU" width="500">
 </div>
 
 ## Sobre este Projeto 
