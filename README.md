@@ -4,7 +4,7 @@
 </div>
 
 ## Sobre este Projeto 
-Cenário fictício desenvolvido pelo autor.
+Os dados utilizados neste projeto são oficiais; no entanto, o cenário descrito na contextualização é fictício.
 
 ## Contextualização
 Atualmente, a questão do <a href="https://www.gov.br/ana/pt-br/assuntos/saneamento-basico/saneamento-basico-no-brasil/panorama-do-saneamento-no-brasil-1#:~:text=O%20saneamento%20b%C3%A1sico%20compreende%20os,manejo%20da%20%C3%A1gua%20das%20chuvas." target="_blank">Saneamento Básico</a> tornou-se uma das principais preocupações das prefeituras do estado de Goiás. O crescimento populacional, somado à urbanização acelerada, trouxe desafios para a infraestrutura de esgotamento sanitário, afetando diretamente a qualidade de vida da população.
