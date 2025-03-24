@@ -1,5 +1,5 @@
 # Ciência de Dados
-## ANÁLISE TEMPORAL DA GESTÃO DE ESGOTOS EM GOIÁS (1992-2021) E PERSPECTIVAS FUTURAS (2022-2032)
+## Análise de Dados sobre a Gestão de Esgotos em Goiás (1992-2021) e Projeções para 2022-2032
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1D5C_5RqZmb1Pc-YGTtIERKbCMFrPZ7fU" width="500">
 </div>
