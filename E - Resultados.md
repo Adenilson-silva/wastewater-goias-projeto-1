@@ -2,8 +2,6 @@
 ## Análise Descritiva dos Dados
 Com base na análise dos dados relativos aos anos de 1992 a 2022, foi possível concluir que:
 
-Observação:
-
 1 - Os volumes de esgoto produzido, coletado e tratado está crescendo com o passar dos anos;
 
 2 - O crescimento do volume de esgoto tratado foi superior ao crescimento de do volume de esgoto coletado. Além disso, o crescimento volume de esgoto coletado foi maior que o crescimento do volume de esgoto produzido. Com base nessas constatações, é possível inferir:
